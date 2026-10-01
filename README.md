@@ -11,3 +11,8 @@ git clone <link to the repo>
 # Docs
 
 Link to the [docs](./DOCS.md)
+
+# Preparing for lecture
+
+1. Find Zoom link
+2. Find repo
