@@ -7,3 +7,7 @@ Adding my first commits for HSE dev tools
 ```
 git clone <link to the repo>
 ```
+
+# Docs
+
+Link to the [docs](./DOCS.md)
