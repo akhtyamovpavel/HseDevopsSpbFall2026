@@ -1,4 +1,4 @@
-# First repo
+# Hse DevOps Git Examples
 
 Adding my first commits for HSE dev tools
 
